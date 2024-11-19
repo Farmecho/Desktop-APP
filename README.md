@@ -1,7 +1,7 @@
 # FarmEcho
 ![Logo](https://media.discordapp.net/attachments/780884459205034007/1308576838930665514/Pattern_2.png?ex=673e72a6&is=673d2126&hm=9d5c97ebb55bdbcc1ff373fb90df9f176fb2b9f3fd832a609efb30914b166d87&=&format=webp&quality=lossless&width=1440&height=292)
 
-<b>O FARMECHO é um sistema integrado para controle de operações de uma fazenda urbana </b>
+<b>A FARMECHO é um sistema integrado para controle de operações de uma fazenda urbana </b>
 
 O projeto foi desenvolvido com o objetivo de proporcionar uma solução completa para gestão de fornecedores, produtos,produção e relatórios. 
 
